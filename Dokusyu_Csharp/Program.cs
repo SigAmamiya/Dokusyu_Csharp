@@ -1,15 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/* 
+簡単なC#サンプルプログラム
+   Example.cs
+*/
 
-namespace Dokusyu_Csharp
+using System;
+
+class Example
 {
-    class Program
+
+    // C# プログラムは  Main()メソッドから実行を開始する
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+        Console.WriteLine("Hello,World!");
+        Console.ReadKey();
     }
 }
