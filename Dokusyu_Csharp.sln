@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.09 DynInit", "2.09 DynIni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.09 ImpTypesVar", "2.09 ImpTypesVar\2.09 ImpTypesVar.csproj", "{A055E220-1D4F-4C9B-8F48-EC8A5DC7E057}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.10 ScopeDemo", "2.10 ScopeDemo\2.10 ScopeDemo.csproj", "{2FDF35F7-2E4F-4A10-AD18-668BEF9B2552}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{A055E220-1D4F-4C9B-8F48-EC8A5DC7E057}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A055E220-1D4F-4C9B-8F48-EC8A5DC7E057}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A055E220-1D4F-4C9B-8F48-EC8A5DC7E057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FDF35F7-2E4F-4A10-AD18-668BEF9B2552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDF35F7-2E4F-4A10-AD18-668BEF9B2552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDF35F7-2E4F-4A10-AD18-668BEF9B2552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDF35F7-2E4F-4A10-AD18-668BEF9B2552}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
