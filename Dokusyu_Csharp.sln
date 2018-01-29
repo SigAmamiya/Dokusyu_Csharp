@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2020
+VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.05 FirstProguram_Hellow,World", "Dokusyu_Csharp\1.05 FirstProguram_Hellow,World.csproj", "{D855CAD5-18B7-4946-9B91-45ABA71DE162}"
 EndProject
@@ -28,6 +28,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.08 Verbatim", "2.08 Verbatim\2.08 Verbatim.csproj", "{5B682E3A-7C7A-4C61-8B9D-65A699E64B57}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.09 DynInit", "2.09 DynInit\2.09 DynInit.csproj", "{CBB5B19E-7514-4EE6-8FFB-6BC8EC9B0009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.09 ImpTypesVar", "2.09 ImpTypesVar\2.09 ImpTypesVar.csproj", "{A055E220-1D4F-4C9B-8F48-EC8A5DC7E057}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{CBB5B19E-7514-4EE6-8FFB-6BC8EC9B0009}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBB5B19E-7514-4EE6-8FFB-6BC8EC9B0009}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBB5B19E-7514-4EE6-8FFB-6BC8EC9B0009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A055E220-1D4F-4C9B-8F48-EC8A5DC7E057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A055E220-1D4F-4C9B-8F48-EC8A5DC7E057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A055E220-1D4F-4C9B-8F48-EC8A5DC7E057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A055E220-1D4F-4C9B-8F48-EC8A5DC7E057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
