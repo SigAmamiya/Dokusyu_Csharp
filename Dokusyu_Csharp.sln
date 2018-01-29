@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.12 ModDemo", "2.12 ModDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.13 RelLogOps", "2.13 RelLogOps\2.13 RelLogOps.csproj", "{03DAE8B0-4B0F-4FD6-A3D3-76E9E9EC4E45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.13 SCops", "2.13 SCops\2.13 SCops.csproj", "{AB51B581-E913-4121-802F-D89C233A67D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{03DAE8B0-4B0F-4FD6-A3D3-76E9E9EC4E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03DAE8B0-4B0F-4FD6-A3D3-76E9E9EC4E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03DAE8B0-4B0F-4FD6-A3D3-76E9E9EC4E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB51B581-E913-4121-802F-D89C233A67D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB51B581-E913-4121-802F-D89C233A67D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB51B581-E913-4121-802F-D89C233A67D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB51B581-E913-4121-802F-D89C233A67D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
