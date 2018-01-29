@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.13 RelLogOps", "2.13 RelL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.13 SCops", "2.13 SCops\2.13 SCops.csproj", "{AB51B581-E913-4121-802F-D89C233A67D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.13 LogicalOpTable", "2.13 LogicalOpTable\2.13 LogicalOpTable.csproj", "{8548F11C-FA0B-4FB8-A2D5-69581CBC7900}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{AB51B581-E913-4121-802F-D89C233A67D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB51B581-E913-4121-802F-D89C233A67D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB51B581-E913-4121-802F-D89C233A67D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8548F11C-FA0B-4FB8-A2D5-69581CBC7900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8548F11C-FA0B-4FB8-A2D5-69581CBC7900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8548F11C-FA0B-4FB8-A2D5-69581CBC7900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8548F11C-FA0B-4FB8-A2D5-69581CBC7900}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
