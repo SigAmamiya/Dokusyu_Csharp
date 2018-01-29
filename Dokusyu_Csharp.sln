@@ -35,7 +35,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.10 ScopeDemo", "2.10 Scop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.10 VarInitDemo", "2.10 VarInitDemo\2.10 VarInitDemo.csproj", "{B836CE95-6D63-4CF8-947E-AE946B972706}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.20 NestVar", "2.20 NestVar\2.20 NestVar.csproj", "{5903630D-6D31-49D3-960F-6BD07388819F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.10 NestVar", "2.20 NestVar\2.10 NestVar.csproj", "{5903630D-6D31-49D3-960F-6BD07388819F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
